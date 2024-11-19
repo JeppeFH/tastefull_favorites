@@ -1,0 +1,7 @@
+.sectionHeader {
+  color: black;
+  background-color: rgba(238, 157, 9, 0.41);
+  max-width: 100%;
+  padding: 50px 0;
+  border: 1px solid rgba(238, 158, 9, 0.696);
+}

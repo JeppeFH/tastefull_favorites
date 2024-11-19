@@ -1,0 +1,15 @@
+.recipeName {
+  padding-bottom: 30px;
+  font-size: 1.3rem;
+}
+
+.recipeCard img {
+  width: 70%;
+  height: 70%;
+}
+
+section {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  grid-template-rows: repeat(auto, auto);
+}
